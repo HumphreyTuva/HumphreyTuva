@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there 👋, I'm Humphrey Tuva
 
-<!--
-**HumphreyTuva/HumphreyTuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Engineer | Founder of 8Tech Solutions
 
-Here are some ideas to get you started:
+I am a passionate full-stack developer and Mathematics & Computer Science student at Kenyatta University. I build modern web and mobile solutions focused on solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Frontend
+- React
+- TailwindCSS
+- JavaScript
+
+### Backend
+- Django
+- Python
+- REST APIs
+
+### Mobile
+- Kotlin Android Development
+
+### Tools & Platforms
+- Git & GitHub
+- Firebase
+- PostgreSQL
+- M-Pesa Daraja API
+
+---
+
+## 🚀 Current Projects
+
+- 📱 M-Pesa Expense Tracker App
+- 🏠 RentalChap Hostel & Rental Platform
+- 🌐 Imarika Foundation Web App
+- 💬 8Tech Messaging Platform
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Android Development
+- System Architecture
+- Finance & Investment
+
+---
+
+## 🌍 Connect With Me
+
+- 📧 Email: humphreytuva2001@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/humphrey-tuva/
+- 🌐 Portfolio: https://8techsolutions.netlify.app/
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building technology solutions, learning finance, and creating systems that solve real-world problems.
