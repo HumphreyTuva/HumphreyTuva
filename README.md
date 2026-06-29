@@ -1,166 +1,63 @@
-# Hi 👋, I'm Humphrey Tuva Ngalla
+# Humphrey Tuva Ngalla
+### Full-Stack Software Engineer · React · Django · M-Pesa · PostgreSQL
+**Nairobi, Kenya 🇰🇪** · Founder of [8Tech Solutions](https://8techsolutions.netlify.app)
 
-## Software Engineer | Founder & CEO of 8Tech Solutions
-
-I am a Software Engineer from Kenya with a passion for designing and building scalable web and mobile applications that solve real-world problems.
-
-I specialize in building full-stack applications using **Django**, **React**, and **Kotlin**, with experience delivering production-ready systems for education, finance, inventory management, agriculture, and nonprofit organizations.
-
-Currently pursuing a Bachelor of Science in Mathematics & Computer Science at Kenyatta University while building software products through **8Tech Solutions**.
+I build and ship production software for real businesses and organisations — from architecture through deployment and maintenance. 4+ years delivering full-stack web applications, REST APIs, and M-Pesa payment integrations for live clients across Kenya.
 
 ---
 
-# 🚀 What I Do
+## 🚀 What I Build
 
-- 🌐 Full-Stack Web Development
-- 📱 Android Development (Kotlin)
-- ⚙️ REST API Development
-- 🗄 Database Design
-- ☁️ Deployment & DevOps
-- 🔐 Authentication & Security
-- 📊 Business Management Systems
-- 💳 M-Pesa Integrations
+- **Fintech & Payments** — M-Pesa Daraja integrations (STK Push, C2B, B2C), transaction logging, webhook handling
+- **Full-Stack Web Apps** — Django/React platforms for real organisations and businesses
+- **Enterprise Systems** — Multi-branch ERP, inventory management, RBAC, audit logging
+- **Booking & Management Platforms** — QR verification, document generation, user management
+- **Mobile Applications** — Android apps with offline-first architecture (Kotlin, Room)
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+**Backend** · Python · Django · Node.js · REST APIs · JWT Auth · RBAC
 
-- Python
-- JavaScript
-- Kotlin
-- HTML5
-- CSS3
-- SQL
+**Frontend** · React · JavaScript · Tailwind CSS · HTML5
 
-### Frontend
+**Databases** · PostgreSQL · MySQL · SQLite
 
-- React
-- Tailwind CSS
-- Bootstrap
-- Axios
-- Vite
+**Payments** · Safaricom Daraja API · STK Push · C2B · B2C · Webhooks
 
-### Backend
+**Mobile** · Kotlin · Android · Room Database
 
-- Django
-- Django REST Framework
-- JWT Authentication
-- REST APIs
-
-### Mobile
-
-- Android
-- Kotlin
-- Room Database
-- Coroutines
-- Material Design 3
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- SQLite
-
-### Tools
-
-- Git
-- GitHub
-- Postman
-- Figma
-- VS Code
-- Android Studio
-
-### Deployment
-
-- PythonAnywhere
-- Netlify
-- WhiteNoise
-- Gunicorn
+**Infrastructure** · Docker · PythonAnywhere · Linux · Git · GitHub
 
 ---
 
-# 🚀 Featured Projects
+## 📦 Featured Projects
 
-### 🎓 8Tech Solutions
-A comprehensive student platform for academic resources, housing, networking, organizations, advertising, and referrals.
-
----
-
-### 💰 PesaIQ
-Android application that automatically tracks M-Pesa transactions through SMS parsing and provides budgeting, analytics, and spending insights.
-
----
-
-### 📦 Mindfulness Supplies Management System
-Production inventory and POS system built using React and Django for multi-branch inventory management.
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [Mindfulness Supplies](https://github.com/HumphreyTuva/mindfulness-supplies) | Multi-branch inventory & POS system for a live business | Django · React · PostgreSQL | 🟢 Production |
+| [SmartSeason](https://smartseason-app.netlify.app) | Agricultural field operations platform | Django · React · REST APIs | 🟢 Live |
+| [8Tech Solutions](https://github.com/HumphreyTuva/8Tech-be) | Student services platform — hostels, marketplace, resources | Django · PostgreSQL | 🔵 Active Dev |
+| [PesaIQ](https://github.com/HumphreyTuva/FinTrack) | M-Pesa SMS transaction tracker & budget manager | Kotlin · Android · Room | 🟢 Live |
+| [Imarika Foundation](https://imarikafoundation.org) | Platform for a live mission-driven organisation | Django · React · PostgreSQL | 🟢 Production |
+| [Hope Educators](https://github.com/HumphreyTuva/HopeEducators) | School management & information platform | Django · Python | 🟢 Completed |
 
 ---
 
-### 🌱 SmartSeason
-Agricultural field operations platform with analytics dashboards, field reporting, offline workflows, and camera integration.
+## 📊 GitHub Stats
+
+![Humphrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HumphreyTuva&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HumphreyTuva&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-### ❤️ Imarika Foundation
-Official website for Imarika Foundation built with React frontend and Django backend.
+## 📫 Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-humphrey--tuva-0A66C2?logo=linkedin)](https://linkedin.com/in/humphrey-tuva)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8techsolutions.netlify.app-orange)](https://8techsolutions.netlify.app)
+[![Email](https://img.shields.io/badge/Email-humphreytuva2001@gmail.com-D14836?logo=gmail)](mailto:humphreytuva2001@gmail.com)
 
 ---
 
-### 🎓 Hope Educators
-Educational institution website developed using Django Templates with dynamic announcements and responsive design.
-
----
-
-# 🌱 Currently Working On
-
-- RentalChap
-- 8Tech Solutions Platform
-- PesaIQ
-- AI-powered campus solutions
-- Financial technology applications
-
----
-
-# 📚 Currently Learning
-
-- Software Architecture
-- Cloud Infrastructure
-- Advanced Android Development
-- System Design
-- Finance & Investments
-
----
-
-# 📈 GitHub Stats
-
-![Humphrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumphreyTuva&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HumphreyTuva&layout=compact&theme=tokyonight)
-
----
-
-# 🌍 Connect With Me
-
-📧 Email: **humphreytuva2001@gmail.com**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/humphrey-tuva/
-
-🌐 Portfolio:
-https://8techsolutions.netlify.app/
-
----
-
-# ⚡ About Me
-
-- Founder & CEO of **8Tech Solutions**
-- Software Engineer
-- Mathematics & Computer Science Student at Kenyatta University
-- Passionate about building systems that create real-world impact
-- Interested in Software Engineering, FinTech, EdTech, and AI
-
----
-
-> *"Building technology that solves real problems and creates meaningful impact."*
+*Open to full-time, contract, and remote opportunities in software engineering and fintech.*
