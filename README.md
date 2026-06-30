@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HumphreyTuva&color=blueviolet&style=flat-square"/>
-  <br/>
-  <i>Thanks for visiting my profile!</i>
-</p>
-
 <h1 align="center">Hi 👋, I'm Humphrey Tuva Ngalla</h1>
 
 <h3 align="center">Full-Stack Software Engineer · React · Django · Kotlin · REST APIs</h3>
@@ -26,30 +20,6 @@ My experience spans:
 - 📦 Inventory & POS systems
 - 📱 Android mobile applications
 - 🔗 REST APIs & scalable backend systems
-
----
-
-## 🎯 Core Expertise
-
-- Full-Stack Web Development (Django + React)
-- REST API Design & Development
-- M-Pesa Daraja API Integration (STK Push, C2B, B2C)
-- Android Development (Kotlin, MVVM, Room)
-- Database Design (PostgreSQL, MySQL, SQLite)
-- Authentication & Authorization (JWT, RBAC)
-- Multi-branch Inventory & POS Systems
-- Linux Server Management & Deployment
-
----
-
-## 🚀 What I Build
-
-* 💳 **Fintech & Payments** — M-Pesa Daraja integrations (STK Push, C2B, B2C), transaction logging, webhook processing
-* 🌐 **Full-Stack Web Applications** — Django and React platforms for real businesses and organizations
-* 🏢 **Enterprise Systems** — Multi-branch inventory management, POS, RBAC, audit logging
-* 🏠 **Booking & Management Platforms** — Hostel systems, QR verification, document generation
-* 📱 **Android Applications** — Kotlin, MVVM, Room Database, offline-first architecture
-* 📊 **Analytics Dashboards** — Reporting, charts, operational insights, business intelligence
 
 ---
 
@@ -114,14 +84,6 @@ My experience spans:
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HumphreyTuva&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -133,52 +95,11 @@ My experience spans:
   <img src="https://streak-stats.demolab.com?user=HumphreyTuva&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumphreyTuva&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HumphreyTuva/HumphreyTuva/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-## 🎓 Education
-
-**BSc Mathematics & Computer Science**
-Kenyatta University · Expected Graduation: 2026
-
----
-
-## 🌱 Currently Building
-
-- 🏠 **RentalChap** — Property rental & hostel management platform
-- 🎓 **8Tech Solutions** — Expanding the student services ecosystem
-- 💰 **PesaIQ** — Enhanced M-Pesa analytics and budgeting
-- 🤖 AI-powered productivity features for web & mobile applications
-
----
-
-## 📖 Currently Learning
-
-- System Design & Clean Architecture
-- Docker & Kubernetes
-- Cloud Infrastructure & Deployment
-- AI Integration for Web Applications
-
 ---
 
 ## 🤝 Open To
 
-- Full-Stack Software Engineering roles
-- Backend & API development
-- Fintech & M-Pesa integration projects
-- Remote & contract opportunities
-- Open source collaboration
+Full-time and contract Software Engineering roles · Backend & API development · Fintech and M-Pesa integration projects · Remote opportunities
 
 ---
 
@@ -196,15 +117,4 @@ Kenyatta University · Expected Graduation: 2026
   <a href="mailto:humphreytuva2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-humphreytuva2001@gmail.com-D14836?logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"I enjoy building software that solves practical problems through clean architecture, thoughtful design, and reliable engineering."</i>
-</p>
-
-<p align="center">
-  <b>Thanks for stopping by!</b><br/>
-  Feel free to explore my repositories or connect with me.
 </p>
