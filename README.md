@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-I'm a Full-Stack Software Engineer with hands-on experience delivering software for real clients across fintech, education, nonprofit, agriculture, and student services.
+I design and build full-stack software that helps organizations streamline operations, automate workflows, and serve real users — from architecture through deployment and maintenance.
 
 My experience spans:
 - 🏢 Enterprise web applications & management systems
@@ -94,6 +94,12 @@ My experience spans:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HumphreyTuva&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🌱 Currently Exploring
+
+System Design · Cloud Deployment · AI-Assisted Engineering
 
 ---
 
