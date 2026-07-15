@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Software Engineer · React · Django · Kotlin · REST APIs</h3>
 
 <p align="center">
-  📍 Nairobi, Kenya 🇰🇪 · Founder & CEO of <a href="https://8techsolutions.netlify.app">8Tech Solutions</a><br/>
+  📍 Nairobi, Kenya 🇰🇪 · Founder & CEO of <a href="https://humphreytuva.netlify.app">Tuva Labs</a><br/>
   Building production-ready software for businesses and organizations across education, fintech, nonprofit, inventory management, and student services.
 </p>
 
@@ -111,7 +111,7 @@ Full-time and contract Software Engineering roles · Backend & API development �
     <img src="https://img.shields.io/badge/LinkedIn-humphrey--tuva-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://8techsolutions.netlify.app">
+  <a href="https://humphreytuva.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-8techsolutions.netlify.app-FF6B35?logo=netlify&logoColor=white"/>
   </a>
   &nbsp;
