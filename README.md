@@ -112,7 +112,7 @@ Full-time and contract Software Engineering roles Â· Backend & API development Â
   </a>
   &nbsp;
   <a href="https://humphreytuva.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-8techsolutions.netlify.app-FF6B35?logo=netlify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-humphreytuva.netlify.app-FF6B35?logo=netlify&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:humphreytuva2001@gmail.com">
